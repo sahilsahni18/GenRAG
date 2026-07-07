@@ -171,3 +171,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Backend
+backend/.env
